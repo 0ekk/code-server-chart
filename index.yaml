@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   code-server:
   - apiVersion: v2
+    appVersion: 4.123.0
+    created: "2026-06-04T03:45:13.251075767Z"
+    description: A Helm chart for coder/code-server
+    digest: dd0f04fff6bcf49a4c47d32227295e76be86db87d356063d379d1b60a0372ea9
+    name: code-server
+    type: application
+    urls:
+    - https://0ekk.github.io/code-server-chart/code-server-4.123.0.tgz
+    version: 4.123.0
+  - apiVersion: v2
     appVersion: 4.122.1
-    created: "2026-06-03T03:52:09.623746701Z"
+    created: "2026-06-04T03:45:13.249876881Z"
     description: A Helm chart for coder/code-server
     digest: 63889a130d49d0fb6a7217003dd7abdb87251f79a9cc530e971d66d7d2384d10
     name: code-server
@@ -13,7 +23,7 @@ entries:
     version: 4.122.1
   - apiVersion: v2
     appVersion: 4.122.0
-    created: "2026-06-03T03:52:09.623196084Z"
+    created: "2026-06-04T03:45:13.24935172Z"
     description: A Helm chart for coder/code-server
     digest: 31d924f9d8c94907724d0728b12da0467093bd6520f1f68515d46ec4c6148fce
     name: code-server
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://0ekk.github.io/code-server-chart/code-server-4.122.0.tgz
     version: 4.122.0
-generated: "2026-06-03T03:52:09.622523493Z"
+generated: "2026-06-04T03:45:13.248702006Z"
